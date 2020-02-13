@@ -1,0 +1,31 @@
+body{
+    background-color: #0a0c0c;
+}
+hr{
+    border-style: none;
+    border-color: rgb(112, 119, 122);
+    border-width: 7px;
+    border-top-style: dotted;
+    width: 10%;
+}
+h1{
+    color: #690392;
+}
+h3{
+    color: #16969b;
+}
+p{
+    color: rgb(255, 255, 255);
+}
+ul{
+    color: thistle;
+}
+ol{
+    color: thistle;
+}
+table{
+    color: thistle;
+}
+label{
+    color: white;
+}
